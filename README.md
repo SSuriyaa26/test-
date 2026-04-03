@@ -4,8 +4,6 @@
 
 
 
-![Hackathon](https://img.shields.io/badge/Hackathon-Convolve_4.0_%7C_AI_IGNITE_2026-FF6700?style=for-the-badge)
-
 ![Status](https://img.shields.io/badge/Status-Demo_Ready-16A34A?style=for-the-badge)
 
 
@@ -104,13 +102,13 @@ Current gig-work platforms require app downloads, typing, and English literacy. 
 
 
 
-* *Suriyaa S * – Frontend Development & Architecture )
+* Suriyaa S – Frontend Development & Architecture 
 
-* *Shashank Prasad* – AI Integration & Prompt Engineering 
+* Shashank Prasad– AI Integration & Prompt Engineering 
 
-* *Divyanshi Mishra * – UI/UX Design & Documentation 
+* Divyanshi Mishra – UI/UX Design & Documentation 
 
-* *Natashaa Leo* - * Ideation , System Architecture and UI/UX*
+* Nataasha Leo-  Ideation , System Architecture and UI/UX
 
 *
 

@@ -94,7 +94,7 @@ To experience the full capabilities of the Rozar platform, follow this testing f
 
 
 
-Current gig-work platforms require app downloads, typing, and English literacy. Rozar replaces this friction with a 30-second, voice-first interaction that costs approximately ₹2 per call—scaling massive employment opportunities to the bottom of the pyramid.
+Current gig-work platforms require app downloads, typing, and English literacy. Rozar replaces this friction with a 30-second, voice-first interaction.
 
 
 

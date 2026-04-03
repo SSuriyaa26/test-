@@ -16,7 +16,7 @@ Rozar is a voice-first, multi-agent AI platform built to help India's 450 millio
 
 
 
-* 🌐 *Vernacular First:* Instantly toggle the entire UI and chatbot between *English, Hindi, and Tamil* without page reloads.
+* 🌐 *Vernacular First:* Instantly toggle the entire UI and chatbot between *English, Hindi, Telugu and Tamil* without page reloads.
 
 * 🎙️ *Voice-Enabled AI Chatbot:* Features browser-native Speech-to-Text (STT) and Text-to-Speech (TTS) for highly accessible, hands-free interaction.
 
@@ -110,6 +110,6 @@ Current gig-work platforms require app downloads, typing, and English literacy. 
 
 * Nataasha Leo-  Ideation , System Architecture and UI/UX
 
-*
 
-*Team Algo Architects
+
+Team Algo Architects
